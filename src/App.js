@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import { AboutMe } from './components/AboutMe';
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
         {/**Ejemplo Header*/}
       </header>
       {/**Body*/}
+      <AboutMe></AboutMe>
     </div>
   );
 }
