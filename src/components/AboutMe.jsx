@@ -4,7 +4,7 @@ export const AboutMe = () => {
 
     return(
         <div>
-            <p> Image</p>
+            <p> Image 1</p>
         </div>
     )
 }
