@@ -1,0 +1,7 @@
+.image-background {
+    background: url(../img/comingsoon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 106vh;
+    margin-top: -70px;
+}

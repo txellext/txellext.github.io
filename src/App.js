@@ -1,14 +1,14 @@
 import './App.css';
-import { AboutMe } from './components/AboutMe';
+import ComingSoon from './components/ComingSoon';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header>
         {/**Ejemplo Header*/}
       </header>
       {/**Body*/}
-      <AboutMe></AboutMe>
+      <ComingSoon></ComingSoon>
     </div>
   );
 }
